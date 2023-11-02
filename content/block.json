@@ -1,0 +1,10 @@
+{    
+    "type": "Wall",
+    "name": "Key",
+    "description": "Kicks unauthorized players.",
+    "hasShadow": false,
+    "health": 1,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "category": "defense"
+}
