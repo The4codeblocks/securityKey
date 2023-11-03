@@ -2,7 +2,7 @@
     "displayName": "Security Key",
     "description": "Contains a block that kicks anyone without the mod.",
     "subtitle": "Factory state, modify first.",
-    "minGameversion": 145.0,
+    "minGameVersion": 145.0,
 
     "instructions": "This mod is a password for your server. Change the \"name\" field to whatever, and rename content/block.json to whatever.json, Keeping the sprite name the same.",
 
