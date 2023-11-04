@@ -1,6 +1,6 @@
 {
     "displayName": "Security Key",
-    "description": "Contains a block that kicks anyone without the mod.",
+    "description": "Contains a block that kicks anyone without this exact mod copy.",
     "subtitle": "Factory state, modify first.",
     "minGameVersion": 145.0,
 
