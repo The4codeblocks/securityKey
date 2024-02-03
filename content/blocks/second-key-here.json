@@ -1,5 +1,5 @@
 {    
-    "type": "Wall",
+    "type": "Block",
     "name": "Key",
     "description": "Kicks unauthorized players.",
     "hasShadow": false,

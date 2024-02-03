@@ -4,7 +4,7 @@
     "subtitle": "Factory state, modify first.",
     "minGameVersion": 145.0,
 
-    "instructions": "This mod is a password for your server.\n\nChange the \"name\" field to whatever, and rename content/block.json to whatever.json, Keeping the sprite name the same.",
+    "instructions": "This mod is a password for your server.\n\nChange the \"name\" field to whatever, and rename content/blocks/second-key-here.json to whatever.json, Keeping the sprite name the same.",
 
     "author": "[#58b0[]f]T4[s[]tat]SC [gr[]ay][m <=> [blu[]e]E][[]][[]][[]][[]]",
 
